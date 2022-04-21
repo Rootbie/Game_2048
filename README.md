@@ -21,3 +21,6 @@
 4. The resulting tile cannot merge with another tile again in the same move. 
 5. If a move causes three consecutive tiles of the same value to slide together, only the two tiles farthest along the direction of motion will combine. 
 6. If all four spaces in a row or column are filled with tiles of the same value, a move parallel to that row/column will combine the first two and last two.
+
+## Images
+![image](https://user-images.githubusercontent.com/95699016/164433093-02a22215-a253-4d13-b910-58b716ea2763.png)
